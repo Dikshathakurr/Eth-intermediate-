@@ -46,11 +46,11 @@ pragma solidity ^0.8.0;
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.0" (or another compatible version), and then click on the "Compile ethintermediate.sol" button.
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Use the code to register candidates.Test the code with different candidate details.Confirm that the code works as expected.
 
-#Author
+# Author
 
 @Diksha Thakur
 
-#License
+# License
 
 This Ethintermediate is licensed under the MIT license
 
